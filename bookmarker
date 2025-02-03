@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookmark Manager</title>
+   <link rel="stylesheet" href="bookmark.css">
+</head>
+<body>
+    <h2>Bookmark Your Favorite Websites</h2>
+    <input type="text" id="siteName" placeholder="Website Name" required>
+    <input type="url" id="siteURL" placeholder="Website URL" required>
+    <button onclick="addBookmark()">Add Bookmark</button>
+    <h3>Saved Bookmarks:</h3>
+    <ul id="bookmarkList"></ul>
+
+    <script src="bookmark.js"></script>
+</body>
+</html>

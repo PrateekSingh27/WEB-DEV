@@ -1,0 +1,29 @@
+body {
+    background-color: #56df20;
+    font-family: Arial, sans-serif;
+    color: #3d04f8;
+    margin: 20px;
+    text-align: center;
+}
+input {
+    background-color: #ce02e9;
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+}
+button {
+    color: #5ae107;
+    background-color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+ul {
+    color: #b91212;
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    background: #ec0505;
+    padding: 10px;
+    margin: 5px 0;
+}

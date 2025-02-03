@@ -1,0 +1,123 @@
+body{
+    background-color: #9a9797;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+/* Button Styling */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn:hover {
+    background-color:#8800ff6e;
+}
+.btn2 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn2:hover {
+    background-color: #8800ff6e;
+}
+.btn3 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn3:hover {
+    background-color:#8800ff6e;
+}
+
+.btn4 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn4:hover {
+    background-color: #8800ff6e;
+}
+.btn5 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn5:hover {
+    background-color: #8800ff6e;
+}
+.btn6 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn6:hover {
+    background-color: #8800ff6e;
+}
+.btn7 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2f3134;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.btn7:hover {
+    background-color: #8800ff6e;
+}
+
+
